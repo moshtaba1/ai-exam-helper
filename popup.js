@@ -1,5 +1,5 @@
 // Store OpenRouter API key
-const OPENROUTER_API_KEY = 'OpenRouter API key';
+const OPENROUTER_API_KEY = '';
 const SITE_NAME = 'AI Exam Helper';
 const SITE_URL = 'chrome-extension://ai-exam-helper';
 
