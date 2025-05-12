@@ -1,5 +1,5 @@
 // Store OpenRouter API key
-const OPENROUTER_API_KEY = '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';
+const OPENROUTER_API_KEY = 'OpenRouter API key';
 const SITE_NAME = 'AI Exam Helper';
 const SITE_URL = 'chrome-extension://ai-exam-helper';
 
